@@ -4,7 +4,7 @@ Me chamo Aparecida, sou graduada em Administração de Empresas com uma paixão 
 
 <br>
 
-https://github-readme-stats.vercel.app/api?username=AparecidaSilva095&show_icons=true&theme=dark
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AparecidaSilva095&show_icons=true&theme=dark)
 
 <br>
 
